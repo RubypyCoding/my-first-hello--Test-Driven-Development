@@ -1,4 +1,4 @@
-** Ejercicio - 'Hola' Spec 
+## Ejercicio - 'Hola' Spec 
 
 Escribe un spec que realice una prueba  al método `test`. El comportamiento deseado del método es que retorne el string `hola`. 
 
